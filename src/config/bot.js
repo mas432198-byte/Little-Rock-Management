@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Hello", // required by Discord API, not shown in the client
+        name: "Competing against other custom erlc bots", // required by Discord API, not shown in the client
         state: "Competing against other custom erlc bots",     // this is what people actually see
         type: 5,               // Custom
       },
